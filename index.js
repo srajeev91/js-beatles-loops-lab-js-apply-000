@@ -6,8 +6,6 @@ function theBeatlesPlay(musicians, instruments) {
   return myNewArray;
 }
 
-myNewArray.push(`${musicians[i]} plays ${instruments[i]}`)
-
 function johnLennonFacts(Array) {
   let i = 0;
   var myNewArray = [];
